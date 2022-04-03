@@ -59,7 +59,7 @@ global.namabot = '༄RISS BOTZ࿐'
 
 global.namaowner = 'call me riss'
 
-global.myweb = 'https://youtube.com/c/SanzyYT'
+global.myweb = 'tiktok.com/@hy.riss02'
 
 
 global.owner = [ '6281256023873' ]
