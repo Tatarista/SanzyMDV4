@@ -3353,14 +3353,14 @@ case 'sewa': case 'sewabot': {
 ┃ 
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃   ⬣ SEWA + PREM ⬣
-┃⬡ 1 MINGGU : 8K
-┃⬡ 1 BULAN : 18K
-┃⬡ PERMANEN : 25K
+┃⬡ 1 MINGGU : 5K
+┃⬡ 1 BULAN : 10K
+┃⬡ PERMANEN : Tanya owner
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃⬡ ON 24 JAM
-┃⬡ RUN DI RDP
+┃⬡ RUN DI HEROKU
 ┃⬡ ANTI DELAY 
 ┃⬡ ANTILINK
 ┃⬡ WELCOME IMAGE
