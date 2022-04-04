@@ -1,4 +1,4 @@
-/**
+i
    * Create By Dika Ardnt.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
@@ -590,7 +590,7 @@ case 'tqtt': case 'tqto': case 'thanksto': {
 • Wita : ${wita}`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Tiktok Creator',
                                     url: global.myweb
                                 }
                             }, {
