@@ -3370,8 +3370,8 @@ case 'sewa': case 'sewabot': {
 ┃⬡ TF - SEND BUKTI - BOT JOIN
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃⬣━ *PAYMENT* :
-┃ GOPAY
-┃ DANA
+┃ PULSA
+┃ 
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 _Bukan Bot_ *_Wibusoft_*👍🏻`
