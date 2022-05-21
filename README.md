@@ -78,4 +78,4 @@ Support Me
 * [`Wangsap`](https://wa.me/6288292024190)
 * [`Igeh`](https://instagram.com/cak_haho)
 * [`Pesbuk`](https://www.facebook.com/Haho.id)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tatarista/SanzyMDV4/)
