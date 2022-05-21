@@ -1,7 +1,4 @@
-{
-	"namabot": "Sanzy Bot WhatsApp",
-	"keywords": ["multi-device"]
-}
+
 {
   "name": "CheemsBot-MD",
   "description": "whatsapp md bot build with nodejs",
